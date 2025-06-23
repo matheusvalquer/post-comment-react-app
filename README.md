@@ -4,7 +4,7 @@ Este repositório contém um aplicativo React simples de comentário de post.
 
 ### Pré-requisitos
 
-Certifique-se de ter o Node.js instalado em seu sistema antes de executar este aplicativo.
+Certifique-se de ter o Node.js instalado em seu sistema antes de executar este aplicativo
 
 - Node.js: [Baixe aqui](https://nodejs.org)
 
